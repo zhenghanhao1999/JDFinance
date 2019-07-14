@@ -69,7 +69,7 @@ export default {
                 }
                 ul {
                     width: 100%;
-                    border-left: 1px solid #666;
+                    border-left: 1px solid #ddd;
                     li {
                         height: 144px;
                         width: 100%;
